@@ -1,6 +1,7 @@
-# calculadora
+# Calculadora Simples em Flutter
 
-A new Flutter project.
+Este é um projeto básico de uma calculadora simples implementada em Flutter. 
+A calculadora realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
 ## Getting Started
 
